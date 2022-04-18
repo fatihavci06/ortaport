@@ -1,0 +1,2 @@
+css dosyalarında değişiklik yapıldığında aşağıdaki işlem mutlaka yapılmalıdır aksi halde çalışmaz
+admin-eklentiler-modüller-nitropack-düzenle içerisinde purge cache butonuna basılır
